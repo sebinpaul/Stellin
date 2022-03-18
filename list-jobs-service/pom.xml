@@ -8,13 +8,13 @@
 		<version>2.6.4</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.stellen</groupId>
+	<groupId>com.stellin</groupId>
 	<artifactId>list-jobs-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>list-jobs-service</name>
-	<description>Jobs list for Stellen</description>
+	<description>Jobs list for Stellin</description>
 	<properties>
-		<java.version>17</java.version>
+		<java.version>12</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
